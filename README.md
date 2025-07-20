@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/anacmoser.png" width="150" style="border-radius:50%" alt="Ana C. Moser">
-  <h1>Olá, eu sou a Ana Moser 👩🏻‍🎓</h1>
+  <h1>Oii, eu sou a Ana Moser 👩🏻‍🎓</h1>
   <p>Estudante do IFSP | Cursando Desenvolvimento de Sistemas | Futura Desenvolvedora Full Stack</p>
   <p>
     <a href="https://github.com/anacmoser">github.com/anacmoser</a> • <a href="mailto:anajcmoser@gmail.com">anajcmoser@gmail.com</a>
