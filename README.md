@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/anacmoser.png" width="150" style="border-radius:50%" alt="Ana C. Moser">
+  <h1>Olá, eu sou a Ana Moser 👩🏻‍🎓</h1>
+  <p>Estudante do IFSP | Cursando Desenvolvimento de Sistemas | Futura Desenvolvedora Full Stack</p>
+  <p>
+    <a href="https://github.com/anacmoser">github.com/anacmoser</a> • <a href="mailto:anajcmoser@gmail.com">anajcmoser@gmail.com</a>
+  </p>
+</div>
 
-<!--
-**anacmoser/anacmoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎭 Quem sou eu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Estudante do IFSP | Técnica em Desenvolvimento de Sistemas (Integrado)**
+
+Tenho 16 anos e estudo no Instituto Federal de São Paulo. Gosto de unir criatividade e tecnologia, especialmente no design de interfaces e desenvolvimento de jogos. 
+
+- 💻 Tenho noções básicas em arquitetura de computadores, redes, bancos de dados relacionais, lógica de programação e ferramentas como Office, Linux, Google Workspace, Notion e Git.
+- 🌐 Conhecimentos em desenvolvimento web: HTML, CSS, JavaScript, além de Python e C.
+- 🎨 Apaixonada por **artes visuais**, trago isso para o mundo tech através do **design web**, onde tenho noções intermediárias de criação visual.
+- 🕹️ Desenvolvi aos 15 anos um jogo de matemática chamado **Levi’s Nightmare** usando JavaScript.
+- 🎯 Meu próximo objetivo é criar um **jogo mais elaborado**, unindo programação, lógica e criatividade visual.
+
+---
+
+### 🛠 Principais skills
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40px" />
+
+</p>
+
+---
+
+
+### 🚀 Projetos em destaque
+
+- 🎮 **Levi’s Nightmare** – Jogo de matemática feito em JavaScript.  
+  🔗 [Repositório no GitHub](https://github.com/anacmoser/Levis-Nightmare)
+
+- 📚 **python-course** – Repositório de estudos e exercícios da linguagem Python.  
+  🔗 [Repositório no GitHub](https://github.com/anacmoser/python-course)
+
+- 🛍️ **Vitale** – Projeto para loja virtual com foco em front-end, utilizando HTML, CSS e JavaScript.  
+  🔗 [Repositório no GitHub](https://github.com/lojavitale/beginning)
+
+
+---
+
+### 📢 Me encontre por aí
+
+- 🐙 GitHub: [anacmoser](https://github.com/anacmoser)
+- 📸 Instagram: [anaacmoser](https://www.instagram.com/anaacmoser/)
+- 📫 Email: anajcmoser@gmail.com
+
+---
+
+### 📈 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacmoser&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacmoser&layout=compact&theme=tokyonight&langs_count=6" />
+  
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anacmoser&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" />
+</p>
+---
+
+
+> 🧠 *"A imaginação é a faculdade da descoberta. É o que penetra nos mundos invisíveis ao redor de nós, os mundos da ciência."* — **Ada Lovelace**
