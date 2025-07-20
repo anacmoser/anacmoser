@@ -62,6 +62,7 @@ Tenho 16 anos e estudo no Instituto Federal de São Paulo. Gosto de unir criativ
 - 🐙 GitHub: [anacmoser](https://github.com/anacmoser)
 - 📸 Instagram: [anaacmoser](https://www.instagram.com/anaacmoser/)
 - 📫 Email: anajcmoser@gmail.com
+- 🧥 LinkedIn: [Ana Moser](https://www.linkedin.com/in/ana-julia-moser-a87294332/)
 
 ---
 
