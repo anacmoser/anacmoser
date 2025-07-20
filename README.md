@@ -79,4 +79,4 @@ Tenho 16 anos e estudo no Instituto Federal de São Paulo. Gosto de unir criativ
 ---
 
 
->  📡*"Software eventually and necessarily gained the same respect as any other discipline."* — **Margaret H. Hamilton**
+>  📡*Software eventually and necessarily gained the same respect as any other discipline.* — **Margaret H. Hamilton**
