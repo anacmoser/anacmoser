@@ -79,4 +79,4 @@ Tenho 16 anos e estudo no Instituto Federal de São Paulo. Gosto de unir criativ
 ---
 
 
-> 🧠 *"A imaginação é a faculdade da descoberta. É o que penetra nos mundos invisíveis ao redor de nós, os mundos da ciência."* — **Ada Lovelace**
+>  📡*"Software eventually and necessarily gained the same respect as any other discipline."* — **Margaret H. Hamilton**
