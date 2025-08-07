@@ -51,11 +51,11 @@ Tenho 16 anos e estudo no Instituto Federal de São Paulo. Gosto de unir criativ
 
 - 📚 **Dress Us Up!** – Jogo de vestir feito em Javascript.  
   🔗 [Repositório no GitHub](https://github.com/anacmoser/Dress-Us-Up)
-  🔗 [Link do Jogo] anacmoser.github.io/Dress-Us-Up
+  🔗 [Link do Jogo] https://anacmoser.github.io/Dress-Us-Up
 
 - 🛍️ **Vitale** – Projeto para loja virtual com foco em front-end, utilizando HTML, CSS e JavaScript.  
   🔗 [Repositório no GitHub](https://github.com/lojavitale/beginning)
-  🔗 [Link do Jogo] anacmoser.github.io/vitale
+  🔗 [Link do Jogo] https://anacmoser.github.io/vitale
 
 
 ---
