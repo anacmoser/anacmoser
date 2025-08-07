@@ -47,12 +47,15 @@ Tenho 16 anos e estudo no Instituto Federal de São Paulo. Gosto de unir criativ
 
 - 🎮 **Levi’s Nightmare** – Jogo de matemática feito em JavaScript.  
   🔗 [Repositório no GitHub](https://github.com/anacmoser/Levis-Nightmare)
+  🔗 [Link do Jogo] anacmoser.github.io/levis-nightmare
 
-- 📚 **python-course** – Repositório de estudos e exercícios da linguagem Python.  
-  🔗 [Repositório no GitHub](https://github.com/anacmoser/python-course)
+- 📚 **Dress Us Up!** – Jogo de vestir feito em Javascript.  
+  🔗 [Repositório no GitHub](https://github.com/anacmoser/Dress-Us-Up)
+  🔗 [Link do Jogo] anacmoser.github.io/Dress-Us-Up
 
 - 🛍️ **Vitale** – Projeto para loja virtual com foco em front-end, utilizando HTML, CSS e JavaScript.  
   🔗 [Repositório no GitHub](https://github.com/lojavitale/beginning)
+  🔗 [Link do Jogo] anacmoser.github.io/vitale
 
 
 ---
