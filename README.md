@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anacmoser/anacmoser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anacmoser/anacmoser/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anacmoser/anacmoser/output/github-contribution-grid-snake.svg">
-</picture>
 
 # Oi, eu sou a Ana Julia 👋
 
@@ -34,5 +29,11 @@ Gosto de estar na interseção entre tecnologia, estética e análise: tanto me 
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anacmoser/anacmoser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anacmoser/anacmoser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anacmoser/anacmoser/output/github-contribution-grid-snake.svg">
+</picture>
 
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana%20Julia%20Moser-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-moser-a87294332/)
