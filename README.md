@@ -34,7 +34,6 @@ Gosto de estar na interseção entre tecnologia, estética e análise: tanto me 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="Canva" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" height="40" width="40" alt="Notion" />
   <img src="https://img.icons8.com/fluency/48/rocket.png" height="40" width="40" alt="Antigravity" />
