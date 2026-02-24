@@ -20,8 +20,7 @@ Gosto de estar na interseção entre tecnologia, estética e análise: tanto me 
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anacmoser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacmoser&layout=compact&theme=tokyonight&hide_border=true"/>
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anacmoser&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
