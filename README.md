@@ -6,33 +6,38 @@ Gosto de estar na interseção entre tecnologia, estética e análise: tanto me 
 
 ---
 
-### 🔭 No momento estou trabalhando com:
+### No momento estou trabalhando com:
 - Knowledge Graphs e dados não estruturados
 - Neo4j, Python e MySQL
 - Pesquisa tecnológica aplicada
 
-### 🌱 Explorando:
+### Explorando:
 - Inteligência Artificial
 - Design UX/UI
 - Front-end
 
 ---
 
-## 📊 Estatísticas e Linguagens
+## Estatísticas e Linguagens
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-projects.vercel.app/api?username=anacmoser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anacmoser&theme=tokyonight" alt="Estatísticas do GitHub" />
   
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-projects.vercel.app/api/top-langs/?username=anacmoser&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=anacmoser&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anacmoser&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anacmoser&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
 </div>
-
+---
+## Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 ---
 
-### 🐍 Snake Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anacmoser/anacmoser/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anacmoser/anacmoser/output/github-contribution-grid-snake.svg">
