@@ -21,9 +21,11 @@ Gosto de estar na interseção entre tecnologia, estética e análise: tanto me 
 ## 📊 Estatísticas e Linguagens
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacmoser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacmoser&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacmoser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacmoser&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anacmoser&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
