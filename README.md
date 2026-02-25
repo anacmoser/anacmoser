@@ -6,15 +6,17 @@ Gosto de estar na interseção entre tecnologia, estética e análise: tanto me 
 
 ---
 
-### No momento estou trabalhando com:
-- Knowledge Graphs e dados não estruturados
-- Neo4j, Python e MySQL
-- Pesquisa tecnológica aplicada
+### Estou explorando:
+- Knowledge Graphs e Ontologias
+- Modelagem de dados
+- Java
+- Neo4j
 
-### Explorando:
-- Inteligência Artificial
+### Possuo conhecimento:
 - Design UX/UI
-- Front-end
+- Python
+- SQL
+- Inteligência Artificial
 
 ---
 
