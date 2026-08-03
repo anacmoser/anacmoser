@@ -1,7 +1,6 @@
 # Oi, eu sou a Ana Julia 👋
 
 Tenho 17 anos, estou no 3º ano do técnico em Desenvolvimento de Sistemas pelo IFSP.
-Gosto de estar na interseção entre tecnologia, estética e análise: tanto me interessa entender como a informação se estrutura por dentro quanto pensar em como ela chega até as pessoas lá na frente.
 
 ---
 
@@ -10,12 +9,6 @@ Gosto de estar na interseção entre tecnologia, estética e análise: tanto me 
 - Modelagem de dados
 - Java
 - Neo4j
-
-### Possuo conhecimento:
-- Design UX/UI
-- Python
-- SQL
-- Inteligência Artificial
 
 ---
 
