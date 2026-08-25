@@ -37,10 +37,10 @@ Tenho 17 anos, estou no 3º ano do técnico em Desenvolvimento de Sistemas pelo 
 
 <h2 align="center"> Estatísticas Detalhadas</h2>
 
-<div align="center">
+<!--<div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anacmoser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anacmoser&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
+</div><-->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anacmoser&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
