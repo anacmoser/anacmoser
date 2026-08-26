@@ -56,8 +56,4 @@ Tenho 17 anos, estou no 3º ano do técnico em Desenvolvimento de Sistemas pelo 
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ana-julia-moser-a87294332/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ana%20Julia%20Moser-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+
