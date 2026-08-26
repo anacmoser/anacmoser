@@ -7,8 +7,7 @@ Tenho 17 anos, estou no 3º ano do técnico em Desenvolvimento de Sistemas pelo 
 ### Estou explorando:
 - Knowledge Graphs e Ontologias
 - Modelagem de dados
-- Java
-- Neo4j
+- Java Web
 
 ---
 
